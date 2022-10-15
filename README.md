@@ -38,3 +38,24 @@ flask run -h localhost -p 3000
 ```
 
 This will open the app in port 3000
+
+<hr>
+
+### Folder Structure
+
+- db/
+- static/
+    - scripts/
+        - script.js
+    - styles/
+        - limpio.css
+        - style.css
+- templates/
+    - base/
+        - base.html
+    - layouts/
+        - default.layout.html
+    - index.html
+- README.md
+- main.py
+- requirements.txt
