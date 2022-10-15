@@ -1,1 +1,1 @@
-console.log('script file loaded')
+console.log('Flaskary script loaded')
