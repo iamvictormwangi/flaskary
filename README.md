@@ -44,6 +44,8 @@ This will open the app in port 3000
 ### Folder Structure
 
 - db/
+    - app.db
+    - schema.sql
 - static/
     - scripts/
         - script.js
@@ -56,6 +58,8 @@ This will open the app in port 3000
     - layouts/
         - default.layout.html
     - index.html
+- app.py
 - README.md
-- main.py
 - requirements.txt
+
+<hr>
